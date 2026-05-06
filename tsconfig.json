@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": false,
+    "strict": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*", "src/tests/**/*", "playwright.config.ts"],
+  "exclude": ["node_modules", "dist", "reports"]
+}
