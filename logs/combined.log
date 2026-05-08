@@ -90,3 +90,278 @@
 {"level":"info","message":"Typing into confirmed password: \"Pass@4528ev15\""}
 {"level":"info","message":"Clicking: Create Account button"}
 {"level":"info","message":"Navigating to: us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account/register"}
+{"level":"info","message":"Typing into First Name: \"Rahul\""}
+{"level":"info","message":"Typing into Last Name: \"Verma\""}
+{"level":"info","message":"Typing into Email: \"rahul.verma.1778253304013@example.com\""}
+{"level":"info","message":"Typing into password: \"Pass@437518jb\""}
+{"level":"info","message":"Typing into confirmed password: \"Pass@437518jb\""}
+{"level":"info","message":"Clicking: Create Account button"}
+{"level":"info","message":"Navigating to: us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en//account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"test@example.com\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into password: \"SomePassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"plainaddress\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"missing@domain\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"@example.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user@\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user @example.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user@ex ample.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"sdet.io6yth.1778260012031@example.com\""}
+{"level":"info","message":"Typing into password: \"SomeValidPassword123!\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"spree@example.com\""}
+{"level":"info","message":"Typing into password: \"DefinitelyWrongPassword!\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"sdet.w0el78.1778260029389@example.com\""}
+{"level":"info","message":"Typing into password: \"wrong\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"admin'--\""}
+{"level":"info","message":"Typing into password: \"' OR '1'='1\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"test@example.com\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into password: \"SomePassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"plainaddress\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"missing@domain\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"@example.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user@\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user @example.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"test@example.com\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into password: \"SomePassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"plainaddress\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"missing@domain\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"@example.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user@\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user @example.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user@ex ample.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"sdet.1sxmwu.1778260143851@example.com\""}
+{"level":"info","message":"Typing into password: \"SomeValidPassword123!\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"spree@example.com\""}
+{"level":"info","message":"Typing into password: \"DefinitelyWrongPassword!\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"sdet.6unueh.1778260153878@example.com\""}
+{"level":"info","message":"Typing into password: \"wrong\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"admin'--\""}
+{"level":"info","message":"Typing into password: \"' OR '1'='1\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"<script>alert(\"xss\")</script>@example.com\""}
+{"level":"info","message":"Typing into password: \"any\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@example.com\""}
+{"level":"info","message":"Typing into password: \"SomePassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"test@example.com\""}
+{"level":"info","message":"Typing into password: \"pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"preserve@example.com\""}
+{"level":"info","message":"Typing into password: \"WrongPassword\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"preserve@example.com\""}
+{"level":"info","message":"Typing into password: \"WrongPassword\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"preserve@example.com\""}
+{"level":"info","message":"Typing into password: \"WrongPassword\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"admin'--\""}
+{"level":"info","message":"Typing into password: \"' OR '1'='1\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"admin'--\""}
+{"level":"info","message":"Typing into password: \"' OR '1'='1\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"test@example.com\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into password: \"SomePassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"plainaddress\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"missing@domain\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"@example.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user@\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user @example.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"user@ex ample.com\""}
+{"level":"info","message":"Typing into password: \"AnyPassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"sdet.i57nzx.1778260616485@example.com\""}
+{"level":"info","message":"Typing into password: \"SomeValidPassword123!\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"spree@example.com\""}
+{"level":"info","message":"Typing into password: \"DefinitelyWrongPassword!\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"sdet.wulp20.1778260626650@example.com\""}
+{"level":"info","message":"Typing into password: \"wrong\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"admin'--\""}
+{"level":"info","message":"Typing into password: \"' OR '1'='1\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"<script>alert(\"xss\")</script>@example.com\""}
+{"level":"info","message":"Typing into password: \"any\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa@example.com\""}
+{"level":"info","message":"Typing into password: \"SomePassword123\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"test@example.com\""}
+{"level":"info","message":"Typing into password: \"pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp\""}
+{"level":"info","message":"Clicking: Sign In button"}
+{"level":"info","message":"Navigating to: https://demo.spreecommerce.org/us/en/account"}
+{"level":"info","message":"Typing into Email: \"preserve@example.com\""}
+{"level":"info","message":"Typing into password: \"WrongPassword\""}
+{"level":"info","message":"Clicking: Sign In button"}

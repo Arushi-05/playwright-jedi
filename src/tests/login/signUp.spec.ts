@@ -10,9 +10,7 @@ test.describe('Sign Up Flow @smoke', () => {
 
     const signUpPage = new SignUpPage(page);
     const profilePage = new MyAccountPage(page)
-    //const timestamp = Date.now();
     const userData = DataGenerator.randomUser();
-
     await signUpPage.goTo();
     await expect(page).toHaveURL(/account\/register/);
     await signUpPage.registerNewUser(userData);
@@ -20,7 +18,6 @@ test.describe('Sign Up Flow @smoke', () => {
     await expect(page).toHaveURL(profilePage.pagePath);
     await profilePage.waitForPageLoad();
     await profilePage.expectAllCardsVisible();
-
     await expect(page.getByText('Account Overview')).toBeVisible()
     await expect(page.getByText(`${userData.firstName} ${userData.lastName}`)).toBeVisible();
 
