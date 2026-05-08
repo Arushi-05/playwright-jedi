@@ -5,7 +5,7 @@ export class EnvConfig{
     private readonly _email: string;
     private readonly _password: string;
     private constructor(){
-        this._baseUrl = 'https://demo.spreecommerce.org/';
+        this._baseUrl = 'https://demo.spreecommerce.org/us/en/';
         this._email = 'you@example.com';
         this._password = 'example';
     }
@@ -17,6 +17,7 @@ export class EnvConfig{
           return EnvConfig.instance;
 
     }
+    
     public get baseUrl(): string { return this._baseUrl; }
     public get email(): string { return this._email; }
     public get password(): string { return this._password; }
